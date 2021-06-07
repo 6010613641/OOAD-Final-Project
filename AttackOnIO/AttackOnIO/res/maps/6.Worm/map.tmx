@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.4" orientation="orthogonal" renderorder="right-down" width="22" height="15" tilewidth="48" tileheight="48" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="maptiles" tilewidth="48" tileheight="48" tilecount="18" columns="6">
+  <image source="../../images/tiles/maptiles.png" width="288" height="144"/>
+ </tileset>
+ <layer id="1" name="Background" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNhYGBgoQCz4hFHx8TIETIXnzp0PcPFXFzhhC98SXEbseoHs7m4ML6wR1dHbBwSG6fEmIvP7ZSaS47bceVHSswlVj2xmJw4ohQDAAuZV2ooBQAA
+  </data>
+ </layer>
+ <layer id="2" name="Weg" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgoAyw4hFHx8TIETIXnzp0PcPFXFzhhC98SXEbseoHs7m4MC592NQRG4f43IONjc9cfG6n1FxiAK4woaa5xKonFg8EAABpUwIgKAUAAA==
+  </data>
+ </layer>
+ <layer id="3" name="Eingänge" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACpWUwQ7AIAhDOcCN///enZaQ7hXdodEo1FKIGRENyIGWde5Lct59AWaOQvmJNwEzt8ydi596tXbVSzXrmfNq06tvqu/k0+Siu4qvl9q3zaep0fGQD86TzfstjmbQ9cNBZ9J51xDvepgHXj13M3fSTjOYP3hVJ/npPCFOevOmR85Ljb8F5bv6qIatr+7PeQAa12WtKAUAAA==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.4" orientation="orthogonal" renderorder="right-down" width="22" height="15" tilewidth="48" tileheight="48" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="maptiles" tilewidth="48" tileheight="48" tilecount="18" columns="6">
+  <image source="../../images/tiles/maptiles.png" width="288" height="144"/>
+ </tileset>
+ <layer id="1" name="Background" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAChNiYGAQYoAAIRIwsepHzUWoIxUMpLmE7CLXDGqF+6i55McdKYAWbhmKGABb3lFAKAUAAA==
+  </data>
+ </layer>
+ <layer id="2" name="Weg" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNggABBBtIAsepHzUWoIxUPpLmE7KI2oIWZo+aimkvPtDLcAADEWAOrKAUAAA==
+  </data>
+ </layer>
+ <layer id="3" name="Entries" width="22" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNggAAOBtIAqepHwSgYBUML8A20AwYRAAA03AJ2KAUAAA==
+  </data>
+ </layer>
+</map>
